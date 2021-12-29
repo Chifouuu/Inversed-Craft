@@ -1,0 +1,11 @@
+[
+{
+  "modid": "InversedCraft",
+  "name": "InversedCraft",
+  "description": "Mod qui permet d'avoir minecraft en inverser",
+  "version": "beta1.0",
+  "mcversion": "1.8.9",
+  "authorList": ["Chifou"],
+  "credits": "Copyright@Chifou2021",
+}
+]
